@@ -1,4 +1,7 @@
-package software.ulpgc.kata3;
+package software.ulpgc.kata3.architecture.io;
+
+import software.ulpgc.kata3.architecture.model.FilmIndustryPerson;
+import software.ulpgc.kata3.architecture.model.TsvFilmIndustryPersonDeserializer;
 
 import java.io.BufferedReader;
 import java.io.File;
