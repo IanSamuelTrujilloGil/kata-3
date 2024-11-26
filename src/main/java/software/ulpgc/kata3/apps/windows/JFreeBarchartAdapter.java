@@ -1,4 +1,4 @@
-package software.ulpgc.kata3.apps.android;
+package software.ulpgc.kata3.apps.windows;
 
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.JFreeChart;

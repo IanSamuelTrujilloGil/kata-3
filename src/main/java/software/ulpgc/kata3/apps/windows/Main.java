@@ -1,4 +1,4 @@
-package software.ulpgc.kata3.apps.android;
+package software.ulpgc.kata3.apps.windows;
 
 import software.ulpgc.kata3.architecture.model.FilmIndustryPerson;
 import software.ulpgc.kata3.architecture.io.ProfessionBarchartLoader;
